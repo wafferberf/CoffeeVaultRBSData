@@ -1,0 +1,42 @@
+{
+    "Images": [
+        {
+            "SavedImageId": 1,
+            "ImageName": "/Slideshow/1.jpg",
+            "Username": "To CoffeeVault! Sure some things changed but it's better than ever!",
+            "RoomName": "Welcome Back!"
+        },
+      {
+        "SavedImageId": 2,
+        "ImageName": "/Slideshow/2.jpg",
+        "Username": "seriously tho he needs to soon",
+        "RoomName": "Skid still hasn't explained"
+      },
+      {
+        "SavedImageId": 3,
+        "ImageName": "/Slideshow/3.jpg",
+        "Username": "They just don't. Don't try them.",
+        "RoomName": "Park and Lounge don't work for some reason!'"
+      },
+      {
+        "SavedImageId": 4,
+        "ImageName": "/Slideshow/4.jpg",
+        "Username": "Welcome to Cyberjunk, How are your balls?",
+        "RoomName": "New Build!"
+      },
+      {
+        "SavedImageId": 5,
+        "ImageName": "/Slideshow/5.jpg",
+        "Username": "No more \"plagerisum\" from \"edgy\" people!",
+        "RoomName": "No more vault code!"
+      },
+      {
+        "SavedImageId": 6,
+        "ImageName": "/Slideshow/6.jpg",
+        "Username": "No OpenRec Compatability.",
+        "RoomName": "fuck i forgot about openrec"
+      }
+        
+    ],
+    "ValidTill": "2069-03-22T19:06:44.927Z"
+}
