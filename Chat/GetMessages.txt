@@ -1,5 +1,5 @@
 {
-    "Results": [
+     [
         {
             "Id": 5108051087,
             "FromPlayerId": 1,
@@ -9,6 +9,6 @@
             "RoomId": null,
             "PlayerEventId": null
         }
-    ],
-    "TotalResults": 1
+    ]
 }
+
