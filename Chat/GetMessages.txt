@@ -1,0 +1,14 @@
+{
+    "Results": [
+        {
+            "Id": 5108051087,
+            "FromPlayerId": 1,
+            "SentTime": "2022-07-14T04:35:25.76Z",
+            "Type": 100,
+            "Data": "Please check your email for information about your Creators' Conference submission!",
+            "RoomId": null,
+            "PlayerEventId": null
+        }
+    ],
+    "TotalResults": 1
+}
