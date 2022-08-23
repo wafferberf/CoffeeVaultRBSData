@@ -1,6 +1,6 @@
 {
   "ChallengeMapId": 299,
-  "ChallengeThemeString": "Super Painter",
+  "ChallengeThemeString": "Super Gay",
   "Challenges": [
     {
       "ChallengeId": 162,
@@ -51,7 +51,7 @@
     "CurrencyType": 0,
     "Xp": 0,
     "Level": 0,
-    "EquipmentPrefabName": "[Paintball_PaintThrower]",
+    "EquipmentPrefabName": "[Maker_Pen]",
     "EquipmentModificationGuid": "",
     "ConsumableItemDesc": "",
     "ItemSetId": null,
