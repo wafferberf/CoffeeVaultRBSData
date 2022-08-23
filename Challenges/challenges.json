@@ -52,7 +52,7 @@
     "Xp": 0,
     "Level": 0,
     "EquipmentPrefabName": "[Paintball_PaintThrower]",
-    "EquipmentModificationGuid": "VTVy8cweC0K2ca1nTXMu0g",
+    "EquipmentModificationGuid": "",
     "ConsumableItemDesc": "",
     "ItemSetId": null,
     "ItemSetFriendlyName": "",
@@ -61,7 +61,7 @@
     "GiftContext": 4,
     "GiftRarity": 30
   },
-  "FallbackGiftName": "4-Star Box",
+  "FallbackGiftName": "Gay Star Box",
   "StartAt": "2022-08-17T21:00:00Z",
   "EndAt": "2022-08-24T21:00:00Z",
   "ServerTime": "2022-08-23T21:26:32.9333892Z",
