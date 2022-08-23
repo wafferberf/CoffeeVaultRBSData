@@ -1,6 +1,7 @@
 {
   "ChallengeMapId": 299,
   "ChallengeThemeString": "Super Gay",
+  "ChallengeThemeID": 1,
   "Challenges": [
     {
       "ChallengeId": 162,
@@ -43,27 +44,29 @@
       "Complete": false
     }
   ],
-  "Gift": {
-    "GiftDropId": 3898,
-    "AvatarItemDesc": "",
-    "AvatarItemType": null,
-    "Currency": 0,
-    "CurrencyType": 0,
-    "Xp": 0,
-    "Level": 0,
-    "EquipmentPrefabName": "[Maker_Pen]",
-    "EquipmentModificationGuid": "",
-    "ConsumableItemDesc": "",
-    "ItemSetId": null,
-    "ItemSetFriendlyName": "",
-    "QueryRedirectContext": null,
-    "QueryRedirectRarity": null,
-    "GiftContext": 4,
-    "GiftRarity": 30
-  },
+  "Gifts": [
+    {
+      "GiftDropId": 3898,
+      "AvatarItemDesc": "",
+      "AvatarItemType": null,
+      "Currency": 0,
+      "CurrencyType": 0,
+      "Xp": 0,
+      "Level": 0,
+      "EquipmentPrefabName": "[Maker_Pen]",
+      "EquipmentModificationGuid": "",
+      "ConsumableItemDesc": "",
+      "ItemSetId": null,
+      "ItemSetFriendlyName": "",
+      "QueryRedirectContext": null,
+      "QueryRedirectRarity": null,
+      "GiftContext": 4,
+      "GiftRarity": 30
+    }
+  ],
   "FallbackGiftName": "Gay Star Box",
   "StartAt": "2022-08-17T21:00:00Z",
   "EndAt": "2022-08-24T21:00:00Z",
   "ServerTime": "2022-08-23T21:26:32.9333892Z",
-  "CompletedRequired": false
+  "CompleteAll": false
 }
