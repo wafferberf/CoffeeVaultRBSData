@@ -1,2 +1,3 @@
 # CoffeeVaultRBSData
-This is the sussy sus sus for the sus amogus sus, got it?
+Data for CoffeeVaultRBS
+https://discord.gg/MxfQ9znen9
