@@ -1,0 +1,41 @@
+{
+  "FeaturedPlayer": {
+    "Id": 69,
+    "TitleOverride": "Featured Lack of Player",
+    "UrlOverride": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  "FeaturedRoomGroup": {
+    "Name": "November Highlights",
+    "FeaturedRooms": [
+      {
+        "RoomName": "Crescendo",
+        "RoomId": 10,
+        "ImageName": "Crescendo.png"
+      },
+      {
+        "RoomName": "Bowling",
+        "RoomId": 19,
+        "ImageName": "bowling.png"
+      }
+    ]
+  },
+  "CurrentAnnouncement": {
+    "Message": "CoffeeVault 0.0.7 - The \"Dracula Photo Shoot With Refreshments\" Edition!",
+    "MoreInfoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  "InstagramImages": [
+    {
+      "ImageName": "Morbing with the bros",
+      "ImageUrl": "https://cdn.discordapp.com/attachments/1001655469800181882/1038175880289189978/RDT_20221017_1914521418353367981194509.jpg"
+    }
+  ],
+  "Videos": [
+    {
+      "BlobName": "/video/real.mp4",
+      "Title": "CoffeeVault for 2022???",
+      "Description": "REAL!??!?!",
+      "ThumbnailBlobName": "/video/real.mp4",
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  ]
+}
