@@ -31,7 +31,7 @@
   ],
   "Videos": [
     {
-      "BlobName": "/video/real.mp4",
+      "BlobName": "real.mp4",
       "Title": "CoffeeVault for 2022???",
       "Description": "REAL!??!?!",
       "ThumbnailBlobName": "/video/real.mp4",
