@@ -20,7 +20,7 @@
     ]
   },
   "CurrentAnnouncement": {
-    "Message": "CoffeeVault 0.0.7 - The \"Dracula Photo Shoot With Refreshments\" Edition!",
+    "Message": "CoffeeVault RBS 0.0.7 - The \"Dracula Photo Shoot (With Refreshments)\" Edition!",
     "MoreInfoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   "InstagramImages": [
@@ -61,7 +61,7 @@
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/witch bitch.png",
+      "ImageName": "Community/Instagram/witch bitch.jpg",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
@@ -90,10 +90,10 @@
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "deez.mov",
-      "Title": "When the Imposter is sus",
+      "BlobName": "deez.mp4",
+      "Title": "When the imposter is sus",
       "Description": "REAL!??!?!",
-      "ThumbnailBlobName": "IDK.png",
+      "ThumbnailBlobName": "Community/Videos/deez.png",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
   ]
