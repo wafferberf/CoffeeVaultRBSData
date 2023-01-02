@@ -1,9 +1,5 @@
 {
-  "FeaturedPlayer": {
-    "Id": 69,
-    "TitleOverride": "Featured Lack of Player",
-    "UrlOverride": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-  },
+  "FeaturedPlayer": {},
   "FeaturedRoomGroup": {
     "Name": "November Highlights",
     "FeaturedRooms": [
